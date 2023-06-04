@@ -4,6 +4,21 @@ baszalmstra:
   title: "prefix.dev"
   url: https://github.com/baszalmstra
   image_url: https://avatars.githubusercontent.com/u/4995967?v=4
+beeankha:
+  name: Bianca Henderson
+  title: Conda maintainer 🐍📦
+  url: https://github.com/beeankha
+  image_url: https://github.com/beeankha.png
+dholth:
+  name: Daniel Holth
+  title: Conda maintainer
+  url: https://github.com/dholth
+  image_url: https://github.com/dholth.png
+forgottenprogramme:
+  name: Mahe Iram Khan
+  title: Conda Maintainer
+  url: https://github.com/forgottenprogramme
+  image_url: https://github.com/forgottenprogramme.png
 jaimergp:
   name: Jaime Rodríguez-Guerra
   title: Steering council member
@@ -19,11 +34,6 @@ travishathaway:
   title: Conda maintainer 👷🔧
   url: https://github.com/travishathaway
   image_url: https://github.com/travishathaway.png
-dholth:
-  name: Daniel Holth
-  title: Conda maintainer
-  url: https://github.com/dholth
-  image_url: https://github.com/dholth.png
 vasvi:
   name: Vasvi Sood
   title: Open Source Contributor
